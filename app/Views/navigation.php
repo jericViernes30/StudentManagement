@@ -9,7 +9,7 @@
         class="menu menu-sm dropdown-content bg-base-100 rounded-box z-1 mt-3 w-52 p-2 shadow">
         <li><a href="/student/list">Students</a></li>
         <li><a href="/student/grades">Grades</a></li>
-        <li><a href="/student/grades">Subjects</a></li>
+        <li><a href="/subject/list">Subjects</a></li>
       </ul>
     </div>
     <a class="btn btn-ghost text-xl">Hello </a>
@@ -18,7 +18,7 @@
     <ul class="menu menu-horizontal px-1">
       <li><a href="/student/list">Students</a></li>
       <li><a href="/student/grades">Grades</a></li>
-      <li><a href="/student/grades">Subjects</a></li>
+      <li><a href="/subject/list">Subjects</a></li>
     </ul>
   </div>
   <div class="navbar-end">
