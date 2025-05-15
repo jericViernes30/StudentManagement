@@ -18,6 +18,10 @@ $routes->group('student', function ($routes) {
     $routes->post('edit', 'Student\StudentController::editStudent');
 });
 
+// $routes->group('subject', function($routes){
+//     $routes->get('list', 'Subject\SubjectController::list');
+// });
+
 
 $routes->get('/login', 'Auth\AuthController::login');
 $routes->post('/auth/login', 'Auth\AuthController::authLogin');
