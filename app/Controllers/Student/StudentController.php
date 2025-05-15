@@ -67,7 +67,7 @@ class StudentController extends BaseController{
                 'subject' => $subject,
                 'student_id' => $studentNumber,
                 'quarter' => 4,
-                'grade' => 0
+                'grade' => NULL
             ];
         }
 
