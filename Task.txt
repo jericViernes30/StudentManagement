@@ -7,3 +7,6 @@
     3. Tag subject
     4. Update subject
     5. Upload grades via excel
+
+    Finished tasks ✅
+    1. Updating student info | Time: 9:50 am
