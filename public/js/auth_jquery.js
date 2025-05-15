@@ -195,6 +195,12 @@ $(document).ready(function () {
             },
         });
     })
+
+    // student subjects
+    $('#addNewSubject').on('click', function(){
+        $('#addSubjectModal').removeClass('hidden')
+        $('#overlay').removeClass('hidden')
+    })
 });
 
 function confirmDeletion(studentNumber) {
